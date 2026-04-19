@@ -7,7 +7,7 @@
 
 ## 🛠️ 环境要求与资源准备
 
-* **Unity 版本**：本项目使用 **Unity 6000.0.31f1** 创建。
+* **Unity 版本**：本项目使用 **Unity 6000.3.13f1** 创建。
 * **推荐字体**：**Noto Sans SC**
     * [Google Fonts 下载链接](https://fonts.google.com/noto/specimen/Noto+Sans+SC?preview.script=Hans)
     * *注：你也可以根据需要使用其他中文字体。*
@@ -83,7 +83,7 @@
 
 ## 🛠️ Prerequisites & Resources
 
-* **Unity Version**: Created with **Unity 6000.0.31f1**.
+* **Unity Version**: Created with **Unity 6000.3.13f1**.
 * **Recommended Font**: **Noto Sans SC**
     * [Download from Google Fonts](https://fonts.google.com/noto/specimen/Noto+Sans+SC?preview.script=Hans)
     * *Note: Other Chinese fonts are also supported.*
