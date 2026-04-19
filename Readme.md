@@ -36,8 +36,8 @@
 ### Table 资源设置
 1. **Addressable 标记**：
     在 `Assets/Localization/Tables` 文件夹下，选中以下文件，并在 **Inspector** 面板左上角勾选 **Addressable**：
-    * `AuthorMessageTable` (Shared Data / en / zh)
-    * `PlayerMessageTable` (Shared Data / en / zh)
+    * `AuthorMessageTable Shared Data / AuthorMessageTable_en / AuthorMessageTable_zh`
+    * `PlayerMessageTable Shared Data / PlayerMessageTable_en / PlayerMessageTable_zh`
 2. **预加载 (Preload) 设置**：
     * 选中 `AuthorMessageTable`，点击 Inspector 中的 **Open In Table Editor**。
     * 在窗口中勾选 **Preload**。并在 `Selected collection` 中确保两张表均已勾选。
