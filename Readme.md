@@ -1,3 +1,6 @@
+![image](https://github.com/Alivecat/UnityChatWindow/blob/main/Demo.gif)
+
+
 # 项目快速上手指南
 
 ---
